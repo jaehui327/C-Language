@@ -1,0 +1,4 @@
+﻿  WordGame.cpp
+c:\users\jaehui\desktop\wordgame\wordgame\wordgame.cpp(49): warning C4101: 'start' :참조되지 않은 지역 변수입니다.
+  WordGame.vcxproj -> C:\Users\jaehui\Desktop\WordGame\Debug\WordGame.exe
+  WordGame.vcxproj -> C:\Users\jaehui\Desktop\WordGame\Debug\WordGame.pdb (Partial PDB)

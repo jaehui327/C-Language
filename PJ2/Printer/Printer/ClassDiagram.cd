@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Printer">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARBAUAIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAKAAA=</HashCode>
+      <FileName>Printer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InkJetPrinter">
+    <Position X="4.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAACAAAAAAAAAAAAAAAAAAAAABAAAAABCAAA=</HashCode>
+      <FileName>InkJetPrinter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LaserPrinter">
+    <Position X="6.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAEAABAAEAAAAAAAAAAABAAAAAACAAA=</HashCode>
+      <FileName>LaserPrinter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LinePrinter">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAgAAAEAAAAAAAAABAgAAAACAAA=</HashCode>
+      <FileName>LinePrinter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>

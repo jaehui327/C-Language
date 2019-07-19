@@ -1,0 +1,8 @@
+﻿  scoreProcessing.cpp
+c:\users\com\desktop\201601692김재희_과제4\scoreprocessing\scoreprocessing\scoreprocessing.cpp(54): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\com\desktop\201601692김재희_과제4\scoreprocessing\scoreprocessing\scoreprocessing.cpp(76): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\com\desktop\201601692김재희_과제4\scoreprocessing\scoreprocessing\scoreprocessing.cpp(110): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\com\desktop\201601692김재희_과제4\scoreprocessing\scoreprocessing\scoreprocessing.cpp(150): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\com\desktop\201601692김재희_과제4\scoreprocessing\scoreprocessing\scoreprocessing.cpp(179): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\com\desktop\201601692김재희_과제4\scoreprocessing\scoreprocessing\scoreprocessing.cpp(191): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  scoreProcessing.vcxproj -> C:\Users\COM\Desktop\201601692김재희_과제4\scoreProcessing\Debug\scoreProcessing.exe
